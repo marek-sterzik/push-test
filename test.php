@@ -1,8 +1,10 @@
 <?php
 
+$pocetIteraci = 10;
+
 echo "Vítejte!\n\n";
 echo "Sekvence cisel:\n";
-for ($i = 0; $i < 10; $i++) {
+for ($i = 0; $i < $pocetIteraci; $i++) {
 	echo "cislo: $i\n";
 }
 echo "A to je vše!\n";
