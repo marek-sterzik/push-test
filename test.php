@@ -1,6 +1,6 @@
 <?php
 
-$pocetIteraci = 30;
+$pocetIteraci = 50;
 
 echo "Vítejte!\n\n";
 echo "Sekvence cisel:\n";
